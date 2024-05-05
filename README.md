@@ -1,1 +1,2 @@
 # IT4-rocnikovy_projekt
+#toto je můj repozitář pro finální projekt ve čtvrtém ročníku
